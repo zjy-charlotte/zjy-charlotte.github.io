@@ -1,0 +1,80 @@
+<html><head>
+<style>
+#title{
+  font-size:60px;
+  text-align:center;
+}
+#text1{
+  width:700px;
+  float:left;
+  padding:70px;
+  font-size:20px;
+}
+#text2{
+  width:700px;
+  float:right;
+  padding:70px;
+  font-size:20px;
+}
+
+#Link{
+  text-align:center;
+  font-size:33px;
+  clear:both;
+}
+</style>
+</head>
+
+<body>
+<div id="title">
+<h1>Lana Del Rey</h1>
+</div>
+
+<hr>
+<div id="text1">
+<p>I've seen the world ,Done it all, had my cake now </p>
+<p>Diamonds, brilliant, and Bel-Air now </p>
+<p> Hot summer nights, mid-July </p>
+<p>When you and I were forever wild </p>
+<p>The crazy days, the city lights </p>
+<p> The way you'd play with me like a child </p>
+<p>Will you still love me when I'm no longer yound and beautiful </p>
+<p>Will you still love me when I got nothing but my aching soul </p>
+<p>I know you will, I know you will </p>
+<p>I know that you will </p>
+<p>Will you still love me when I'm no longer beautiful </p>
+<p>I've seen the world, lit it up as my stage now </p>
+<p>Channeling angels in the new age now</p>
+<p>Hot summer days, rock and roll </p>
+<p>The way you'd play for me at your show </p>
+<p>And all the ways I got to know</p>
+<p>Your pretty face and electric soul </p>
+</div>
+
+<div id="text2">
+<p>Will you still love me when I'm no longer yound and beautiful </p>
+<p>Will you still love me when I got nothing but my aching soul </p>
+<p>I know you will, I know you will </p>
+<p>I know that you will </p>
+<p>Will you still love me when I'm no longer beautiful </p>
+<p>Dear lord when I get to heaven </p>
+<p>Please let me bring my man </p>
+<p>When he comes tell me that you'll let me</p>
+<p>Father tell me if you can </p>
+<p>All that grace, all that body</p>
+<p>all that face makes me wanna party </p>
+<p>He's my sun, he makes me shine like diamonds </p>
+<p>Will you still love me when I'm no longer yound and beautiful </p>
+<p>Will you still love me when I got nothing but my aching soul </p>
+<p>I know you will, I know you will </p>
+</div>
+
+
+<div id="Link">
+<a href="/1.html">←Perv</a>
+<a href="/index">home</a>
+<a href="/3.html">Next→</a>
+</div>
+
+
+</body></html>
